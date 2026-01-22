@@ -56,3 +56,15 @@ renv::restore()
 
 3. Run the app
 shiny::runApp()
+
+
+## Limitations
+- Data is aggregated; individual migrant outcomes are not observable.
+- Performance may degrade with very large spatial or temporal extensions.
+- Visual exploration supports hypothesis generation, not causal inference.
+
+## Potential extensions
+- Annotate timelines with policy changes and border controls
+- Add caching/pre-aggregation for scalability
+- Extend to migrant outcomes (employment, income, housing stress)
+- Enable data export for downstream analysis
