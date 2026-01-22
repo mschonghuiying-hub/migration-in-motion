@@ -19,6 +19,11 @@ This dashboard translates complex ABS migration data into a decision-grade explo
 - changes in visa composition,
 - state-level divergence and recovery patterns.
 
+## Decisions this supports
+- Understand how migration shocks impact state-level labour supply
+- Compare reliance on temporary vs permanent visa streams by state
+- Identify structural vs cyclical changes post-COVID
+
 ## Key features
 - National migration trends: Interactive time series of arrivals, departures, and net migration (2014–2023), highlighting COVID disruption and recovery.
 - Visa composition drill-down: Stacked and line views separating permanent vs temporary visa streams and sub-categories.
@@ -26,7 +31,7 @@ This dashboard translates complex ABS migration data into a decision-grade explo
 - Country of birth analysis: Dynamic treemap showing top source countries by state, enabling geographic and demographic comparison.
 - Linked interactions: Selecting a year or state updates all relevant charts simultaneously for fast exploration.
 
-## Example insights
+## Insights
 - Net overseas migration turned sharply negative during COVID, with uneven recovery across states.
 - Temporary visa streams were more volatile than permanent migration.
 - NSW and VIC experienced larger swings compared to relatively resilient states such as QLD.
